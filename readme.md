@@ -70,5 +70,6 @@ Once you have added your forwarding events you are ready to be adding your scrip
 </head>
 ```
 
+You will know your script is working correctly by seeing if the script you added with the `type="text/partytown"` attribute has `-x` added to the end of it.
 
 **All of the code and directory structure can be seen in this repository for reference.**
